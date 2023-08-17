@@ -1,0 +1,24 @@
+.Exhibit {
+    float: left;
+    margin: 0.5vw;
+    padding: 0vw 1vw 0vw 1vw;
+    text-align: center;
+    color: #002933;
+    background-color: rgb(138, 2, 29);
+    border: 0.25vw solid rgb(138, 2, 29);
+    border-radius: 0.5vw;
+    text-align: center;
+}
+
+.Exhibit-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 1vmin);
+    color: white;
+}
+  
+.Exhibit-link {
+    color: #61dafb;
+}
