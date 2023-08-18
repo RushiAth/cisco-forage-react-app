@@ -4,10 +4,15 @@
     padding: 0vw 1vw 0vw 1vw;
     text-align: center;
     color: #002933;
-    background-color: rgb(138, 2, 29);
-    border: 0.25vw solid rgb(138, 2, 29);
+    background-color: rgb(100, 3, 23);
+    border: 0.25vw solid rgb(100, 3, 23);
     border-radius: 0.5vw;
+}
+
+.Exhibit-child {
+    margin: 0.5vw;
     text-align: center;
+    color: white;
 }
 
 .Exhibit-header {
